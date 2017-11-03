@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">EXchange</string>
+
+    <string name="bitcoin_name">BITCOIN</string>
+    <string name="ethereum_name">ETHEREUM</string>
+
+    <string name="add_bitcoin">Add BITCOIN</string>
+    <string name="add_ethereum">Add ETHEREUM</string>
+
+    <string name="progress_info">
+        Retrieving current exchange rates . . .
+    </string>
+
+    <string name="empty_state_text">
+        Rates are dynamic . . . "\n"
+        click the button below to start exchanging
+    </string>
+
+    <string name="countdown_message">Problem retrieving current rates</string>
+
+    <string name="negative_countdown_message">LEAVE</string>
+
+    <string name="positve_countdown_message">TRY AGAIN</string>
+
+    <string-array name="currencies">
+        <item>AED</item>
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>EGP</item>
+        <item>ETP</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>GHS</item>
+        <item>HKD</item>
+        <item>INR</item>
+        <item>KES</item>
+        <item>NGN</item>
+        <item>SEK</item>
+        <item>TZS</item>
+        <item>USD</item>
+        <item>XAF</item>
+        <item>ZAR</item>
+    </string-array>
+</resources>
